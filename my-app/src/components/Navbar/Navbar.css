@@ -1,0 +1,139 @@
+.nav-icons{
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 19px;
+    margin-right: 5px;
+    gap: 2px;
+
+}
+
+.nav-power-icon{
+    margin-right: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+
+
+.nav-search-icon{
+    margin-right: 25px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.nav-icons img{
+    margin-right: 35px;
+    margin-top: 12px;
+    width: 40px;
+    cursor: pointer;
+    
+}
+
+.nav-menu-icon{
+   margin-right: 170px;
+   margin-top: 14px;
+   font-size: 22px;
+   cursor: pointer;
+}
+
+.nav-input{
+    width: 180px;
+    height: 30px;
+    margin-top: 17px;
+    margin-right: 25px;
+    cursor: pointer;
+}
+
+ 
+
+
+@media screen and (max-width: 400px){
+    .nav-menu-icon{
+        margin-right: 180px; 
+     }
+     .nav-bell-icon{
+        display: none;
+     }
+     .nav-setting-icon{
+        display: none;
+     }
+     .nav-message-icon{
+        display: none;
+     }
+     .nav-logo{
+        display: none;
+     }
+     .nav-input{
+        display: none;
+     }
+}
+
+@media screen and (max-width: 480px){
+    .nav-menu-icon{
+        margin-right: 180px; 
+     }
+     .nav-bell-icon{
+        display: none;
+     }
+     .nav-setting-icon{
+        display: none;
+     }
+     .nav-message-icon{
+        display: none;
+     }
+     .nav-logo{
+        display: none;
+     }
+     .nav-input{
+        display: none;
+     }
+}
+
+@media screen and (min-width: 480px){
+    .nav-menu-icon{
+        margin-right: 190px; 
+     }
+
+     .nav-bell-icon{
+        margin-right: 20px;
+        margin-top: 10px;
+     }
+
+     .nav-setting-icon{
+        margin-right: 20px;
+        margin-top: 10px;
+     }
+     .nav-message-icon{
+        margin-right: 20px;
+        margin-top: 10px;
+     }
+     
+     
+}
+
+@media screen and (max-width: 768px){
+    .nav-logo{
+        display: none;
+     }
+     .nav-input{
+        display: none;
+     }
+}
+
+@media screen and (min-width: 576px){
+    .nav-menu-icon{
+        margin-right: 290px; 
+     }
+    
+}
+
+@media screen and (min-width: 768px){
+    .nav-menu-icon{
+        display: none;
+     }
+     .nav-search-icon{
+        display: none;
+     }
+}
+
