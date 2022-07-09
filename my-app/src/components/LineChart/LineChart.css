@@ -1,0 +1,24 @@
+
+
+@media screen and (max-width: 380px) {
+    .chart-line{
+        margin-left: -200px;
+        margin-top: 50px;
+        width: 370px;
+        padding-left: -20px;
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
+}
+
+
+@media screen and (min-width: 480px) {
+    .chart-line{
+        margin-left: -200px;
+        margin-top: 50px;
+        width: 450px;
+        padding-left: -20px;
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
+}

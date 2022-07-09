@@ -4,6 +4,8 @@ import { Chart as ChartJS } from "chart.js/auto";
 
 
 
+import './LineChart.css'
+
 
 
 
@@ -25,7 +27,6 @@ const data = {
   
   const options = {
     plugins:{legend:{display:false}},
-    layout:{padding:{left:370, right: 200}},
     aspectRatio:10,
     scales: {
       y:{

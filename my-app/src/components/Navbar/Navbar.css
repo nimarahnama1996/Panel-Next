@@ -3,8 +3,8 @@
     display: flex;
     justify-content: flex-end;
     font-size: 19px;
-    margin-right: 5px;
-    gap: 2px;
+    margin-right: -47px;
+    gap: 3px;
 
 }
 
@@ -50,7 +50,7 @@
 
 @media screen and (max-width: 400px){
     .nav-menu-icon{
-        margin-right: 180px; 
+        margin-right: 140px; 
      }
      .nav-bell-icon{
         display: none;

@@ -26,7 +26,7 @@ const SideMenu = () => {
             width: 300,
             backgroundColor:'#171717',
             color:'#ffffff',
-            marginTop:'30px',
+            marginTop:'120px',
             marginLeft:'-10px'
              }}
         mode="inline"
