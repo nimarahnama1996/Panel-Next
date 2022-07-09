@@ -1,8 +1,13 @@
 import React from 'react'
+import LineChart from '../../components/LineChart/LineChart'
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      <div>
+        <LineChart/>
+      </div>
+    </div>
   )
 }
 
