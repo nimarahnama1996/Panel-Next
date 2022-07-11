@@ -23,9 +23,10 @@
 }
 
 .nav-icons img{
-    margin-right: 35px;
-    margin-top: 12px;
-    width: 40px;
+    margin-right: 33px;
+    margin-top: 9px;
+    width: 50px;
+    height: 42px;
     cursor: pointer;
     
 }
@@ -43,6 +44,10 @@
     margin-top: 17px;
     margin-right: 25px;
     cursor: pointer;
+}
+
+.nav-burger{
+   margin-left: 490px;
 }
 
  

@@ -22,9 +22,8 @@ const Home = () => {
        
       </div>
 
-      <div>
-        <LineChart/>
-      </div>
+     
+      
     </div>
   )
 }

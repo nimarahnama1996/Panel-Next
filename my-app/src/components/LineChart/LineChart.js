@@ -27,6 +27,12 @@ const data = {
   
   const options = {
     plugins:{legend:{display:false}},
+    layout: {
+      padding: {
+          left: 150,
+          right:90,
+      }
+  },
     aspectRatio:10,
     scales: {
       y:{

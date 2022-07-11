@@ -6,14 +6,15 @@ import { Input} from 'antd';
 import './Navbar.css'
 import user from '../../img/profile.png'
 import logo from '../../img/logomenu.PNG'
+import BurgerMenu from '../BurgerMenu/BurgerMenu';
 
 
 const Navbar = () => {
   return (
     <nav style={{backgroundColor:'#171717'}}>
         <div className='nav-icons'>
+        <BurgerMenu/>
         <Input size="small" className='nav-input' placeholder="Search Dashboard" prefix={<SearchOutlined />} />
-        <MenuOutlined className='nav-menu-icon' style={{marginTop:'20px',cursor:'pointer'}}/>
         <img src={user} alt='user'/>
         <SearchOutlined className='nav-search-icon'/>
         <MessageOutlined className='nav-message-icon' style={{marginTop:'20px',cursor:'pointer'}}/> 
