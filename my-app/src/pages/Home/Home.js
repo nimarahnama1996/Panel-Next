@@ -4,6 +4,7 @@ import React from 'react'
 
 import './Home.css'
 import LineChart from '../../components/LineChart/LineChart'
+import OverviewChart from '../../components/OverviewChart/OverviewChart'
 
 
 
@@ -20,6 +21,10 @@ const Home = () => {
       <h5> of the next products</h5>
       </span>
        
+      </div>
+
+      <div>
+        <OverviewChart/>
       </div>
 
      

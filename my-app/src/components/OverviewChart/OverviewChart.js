@@ -4,8 +4,7 @@ import { Chart as ChartJS } from "chart.js/auto";
 
 
 
-import './LineChart.css'
-
+import './OverviewChart.css'
 
 
 
@@ -56,15 +55,13 @@ const data = {
     },
   };
 
-const LineChart = () => {
-  
+
+const OverviewChart = () => {
   return (
-    <div className='chart-line'>
-        <h2 >Requests per second</h2>
-      
-      <Line data={data} options={options} />
+    <div className='line-container'>
+        <div> <Line data={data} options={options} /></div>
     </div>
   )
 }
 
-export default LineChart
+export default OverviewChart

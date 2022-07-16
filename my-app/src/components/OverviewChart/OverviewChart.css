@@ -1,0 +1,136 @@
+
+
+
+@media screen and (min-width: 360px){
+    .line-container{
+     
+        width: 520px;
+        margin-left: -330px;
+    }
+}
+
+@media screen and (min-width: 414px){
+    .line-container{
+
+        width: 530px;
+        margin-left: -330px;
+    }
+}
+
+@media screen and (min-width: 460px){
+    .line-container{
+       
+        width: 600px;
+        margin-left: -340px;
+    }
+}
+
+
+@media screen and (min-width: 520px){
+    .line-container{
+    
+        width: 660px;
+        margin-left: -340px;
+    }
+}
+
+@media screen and (min-width: 580px){
+    .line-container{
+      
+        width: 710px;
+        margin-left: -340px;
+    }
+}
+
+@media screen and (min-width: 700px){
+    .line-container{
+ 
+        width: 820px;
+        margin-left: -320px;
+    }
+}
+
+@media screen and (min-width: 769px){
+    .line-container{
+        
+        width: 600px;
+        margin-left: -40px;
+    }
+}
+
+@media screen and (min-width: 830px){
+    .line-container{
+       
+        width: 650px;
+        margin-left: -30px;
+    }
+}
+
+@media screen and (min-width: 910px){
+    .line-container{
+       
+      
+        width: 740px;
+        margin-left: -30px;
+    }
+}
+
+
+@media screen and (min-width: 1050px){
+    .line-container{
+        
+        width: 870px;
+        margin-left: -30px;
+    }
+}
+
+
+@media screen and (min-width: 1200px){
+    .line-container{
+        
+        width: 1020px;
+        margin-left: -30px;
+    }
+}
+
+@media screen and (min-width: 1350px){
+    .line-container{
+        
+        width: 1140px;
+        margin-left: -30px;
+    }
+}
+
+
+@media screen and (min-width: 1500px){
+    .line-container{
+        width: 1270px;
+        margin-left: -30px;
+    }
+}
+
+
+
+@media screen and (min-width: 1600px){
+    .line-container{
+        width: 1390px;
+        margin-left: -30px;
+    }
+}
+
+
+@media screen and (min-width: 1700px){
+    .line-container{
+        width: 1430px;
+        margin-left: -30px;
+    }
+}
+
+@media screen and (min-width: 1800px){
+    .line-container{
+        width: 1690px;
+        margin-left: -30px;
+    }
+}
+
+
