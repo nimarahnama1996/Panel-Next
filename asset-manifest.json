@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Panel-Next/static/css/main.de4209c7.css",
+    "main.js": "/Panel-Next/static/js/main.3afb91bd.js",
+    "static/media/logomenu.PNG": "/Panel-Next/static/media/logomenu.3013211bac131061e937.PNG",
+    "index.html": "/Panel-Next/index.html",
+    "main.de4209c7.css.map": "/Panel-Next/static/css/main.de4209c7.css.map",
+    "main.3afb91bd.js.map": "/Panel-Next/static/js/main.3afb91bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de4209c7.css",
+    "static/js/main.3afb91bd.js"
+  ]
+}
